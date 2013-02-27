@@ -2,3 +2,7 @@
 2.bbb featureからはじめる in feature
 3.ccc 2回目のfeature in feature
 4.ccc 3回目のfeature in feature
+5.eee developからやり直し in develop
+6.fff 1回目のfeature in feature
+7.ggg 2回目のfeature in feature
+8.hhh 3回目のfeature in feature
