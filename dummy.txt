@@ -1,8 +1,1 @@
-aaa
-bbb
-ccc in test-branch
-4.ddd in test-branch2
-5.eee in develop
-6.fff 4の時の空白を開けて再merge in develop
-7.ggg もう少しポイントを作る in develop
-8.hhh 4のコンフリクトを手動で解消してコミット in develop
+1.aaa 最初から in develop
